@@ -1,4 +1,4 @@
-# ApresentandoTensorflow
+# Apresentando Tensorflow
 Projeto artigo técnico gerado por I.A.s.
 
 ## Tecnologias utilizadas no projeto
